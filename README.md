@@ -11,7 +11,7 @@ I build **scalable products**, and **web systems**.
 
 <p align="left">
   <a href="https://github.com/Kauanzembruski">
-    <img src="https://img.shields.io/badge/GitHub-Kauanzaembruski-181717?style=for-the-badge&logo=github" />
+    <img src="https://img.shields.io/badge/GitHub-Kauanzembruski-181717?style=for-the-badge&logo=github" />
   </a><br>
   <a href="https://www.instagram.com/kauan__zembruski/">
     <img src="https://img.shields.io/badge/Instagram-@kauan_zembruski-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
