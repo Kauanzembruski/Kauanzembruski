@@ -3,7 +3,7 @@
 🚀 **Junior Software Engineer | Python**  
 🇧🇷 Brazil
 
-I build **scalable products**, and **high-performance web systems**.  
+I build **scalable products**, and **web systems**.  
 
 ---
 
